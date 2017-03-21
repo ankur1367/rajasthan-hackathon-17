@@ -7,7 +7,10 @@ Where End user can get all the information regarding policy and what are the eli
 This is a Backend application which is fetching data from the Bhamashah API and saving them in the database. On this saved data we apply the process to filter the data on various criteria such Povery Line, Education.
 
 The Front end of the Application is based on ReactJS. The backend is Python Based Django Framework. 
-
+ # Fronend URL
+ Repo link: https://github.com/ashu17706/rajasthan-hackathon
+# Demo
+https://ashu17706.github.io/rajasthan-hackathon/
 # Quick start:
 # Install Virtual Environment
 1) $ virtualenv venv
