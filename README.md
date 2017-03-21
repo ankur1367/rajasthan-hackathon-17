@@ -9,14 +9,14 @@ This is a Backend application which is fetching data from the Bhamashah API and 
 The Front end of the Application is based on ReactJS. The backend is Python Based Django Framework. 
 
 # Quick start:
-Install Virtual Environment
+# Install Virtual Environment
 1) $ virtualenv venv
 2) $ source /venv/bin/activate
-Install Dependencies
+# Install Dependencies
 3) $ cd source
 4) $ pip install -r requirements.txt
 5) $ cd source
-Run the server
+# Run the server
 6) $ python manage.py runserver
 
 For API please visit
